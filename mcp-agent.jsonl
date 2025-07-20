@@ -1,0 +1,9 @@
+{"level":"INFO","timestamp":"2025-06-29T09:29:21.128527","namespace":"mcp_agent.core.context","message":"Configuring logger with level: info"}
+{"level":"INFO","timestamp":"2025-06-29T09:29:21.130526","namespace":"mcp_agent.streamlit_mcp_agent","message":"MCPApp initialized","data":{"data":{"progress_action":"Running","target":"streamlit_mcp_agent","agent_name":"mcp_application_loop","session_id":"42884127-a30a-4151-ab05-480e0fd545d7"}}}
+{"level":"INFO","timestamp":"2025-06-29T09:35:24.623866","namespace":"mcp_agent.core.context","message":"Configuring logger with level: info"}
+{"level":"INFO","timestamp":"2025-06-29T09:35:24.624888","namespace":"mcp_agent.streamlit_mcp_agent","message":"MCPApp initialized","data":{"data":{"progress_action":"Running","target":"streamlit_mcp_agent","agent_name":"mcp_application_loop","session_id":"b4dbf390-fb16-452e-a557-9f6ed6c05c89"}}}
+{"level":"ERROR","timestamp":"2025-06-29T09:35:24.671328","namespace":"mcp_agent.mcp.mcp_aggregator.browser","message":"Error loading server data: Server 'puppeteer' not found in registry.. Attempting to continue"}
+{"level":"INFO","timestamp":"2025-06-29T09:35:24.673329","namespace":"mcp_agent.streamlit_mcp_agent","message":"Tools available:","data":{"data":{"meta":null,"nextCursor":null,"tools":[]}}}
+{"level":"INFO","timestamp":"2025-06-29T09:41:23.141505","namespace":"mcp_agent.core.context","message":"Configuring logger with level: info"}
+{"level":"INFO","timestamp":"2025-06-29T09:41:23.143512","namespace":"mcp_agent.streamlit_mcp_agent","message":"MCPApp initialized","data":{"data":{"progress_action":"Running","target":"streamlit_mcp_agent","agent_name":"mcp_application_loop","session_id":"8bb97852-9d1d-4ca3-91af-e7297e759318"}}}
+{"level":"INFO","timestamp":"2025-06-29T09:41:23.146507","namespace":"mcp_agent.streamlit_mcp_agent","message":"Tools available:","data":{"data":{"meta":null,"nextCursor":null,"tools":[]}}}
